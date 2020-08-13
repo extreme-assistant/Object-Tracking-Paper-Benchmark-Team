@@ -25,9 +25,8 @@
 
 #### 多目标跟踪
 
-* 1.How to Train Your Deep Multi-Object Tracker<br>
+* 1.[How to Train Your Deep Multi-Object Tracker](https://arxiv.org/abs/1906.06618)<br>
 作者｜Yihong Xu, Aljosa Osep, Yutong Ban, Radu Horaud, Laura Leal-Taixe, Xavier Alameda-Pineda<br>
-论文｜https://arxiv.org/abs/1906.06618<br>
 代码｜https://github.com/yihongXU/deepMOT<br><br>
 
 * 2.[Learning a Neural Solver for Multiple Object Tracking](https://arxiv.org/abs/1912.07515)<br>
@@ -71,7 +70,7 @@
 单位 | 西郊利物浦大学；利物浦大学；北京交通大学<br>
 代码 |  https://github.com/insomnia94/FTMU<br><br>
 
-* 11.[Video Instance Segmentation Tracking With a Modified VAE Architecture]（http://openaccess.thecvf.com/content_CVPR_2020/html/Lin_Video_Instance_Segmentation_Tracking_With_a_Modified_VAE_Architecture_CVPR_2020_paper.html）<br>
+* 11.[Video Instance Segmentation Tracking With a Modified VAE Architecture](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Video_Instance_Segmentation_Tracking_With_a_Modified_VAE_Architecture_CVPR_2020_paper.pdf)<br>
 作者 | Chung-Ching Lin, Ying Hung, Rogerio Feris, Linglin He<br>
 单位 | IBM Research AI；罗格斯大学<br><br>
 
@@ -249,7 +248,7 @@ demo｜https://www.youtube.com/watch?v=8t2FLz_ucvs<br><br>
 * 13.[Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos](https://arxiv.org/abs/2004.12652)<br>
 作者｜Umer Rafi, Andreas Doering, Bastian Leibe, Juergen Gall<br><br>
 
-14. CLNet: A Compact Latent Network for Fast Adjusting Siamese Tracker<br><br>
+* 14. CLNet: A Compact Latent Network for Fast Adjusting Siamese Tracker<br><br>
 
 * 15.[Learning Object-aware Anchor-free Networks for Real-time Object Tracking](https://arxiv.org/pdf/2006.10721.pdf)<br>
 作者｜Zhipeng Zhang，Houwen Peng，Jianlong Fu，Bing Li，Weiming Hu<br>
@@ -464,7 +463,6 @@ demo｜https://www.youtube.com/watch?v=8t2FLz_ucvs<br><br>
 
 ![](https://github.com/extreme-assistant/Object-Tracking-Paper-Benchmark-Team/blob/master/640-79.png)
 
-来源：https://github.com/foolwood/benchmark_results<br>
 
 <ul>
 <li>
